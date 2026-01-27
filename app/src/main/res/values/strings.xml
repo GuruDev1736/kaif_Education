@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">kaif Education</string>
+
+    <!-- Welcome Screen Strings -->
+    <string name="welcome_title">Welcome to Kaif Education</string>
+    <string name="welcome_message">Empowering minds, building futures. Join us on a journey of learning and growth.</string>
+    <string name="lets_go">Let\'s Go</string>
+
+    <!-- Digital Asset Links for TWA -->
+    <!-- You need to replace YOUR_APP_PACKAGE_NAME with: com.kaifeducation.app -->
+    <!-- You need to replace YOUR_SHA256_FINGERPRINT with your app's signing certificate SHA-256 fingerprint -->
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://kaifeducationfoundation.org\"
+            }
+        }]
+    </string>
+</resources>
+
