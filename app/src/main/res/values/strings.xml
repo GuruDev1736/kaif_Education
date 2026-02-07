@@ -2,7 +2,7 @@
     <string name="app_name">kaif Education</string>
 
     <!-- Welcome Screen Strings -->
-    <string name="welcome_title">Welcome to Kaif Education</string>
+    <string name="welcome_title">Welcome to \n Kaif Education</string>
     <string name="welcome_message">Empowering minds, building futures. Join us on a journey of learning and growth.</string>
     <string name="lets_go">Let\'s Go</string>
 

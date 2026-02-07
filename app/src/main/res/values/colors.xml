@@ -3,22 +3,22 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-    <!-- Primary Brand Colors -->
-    <color name="primary">#2196F3</color>
-    <color name="primary_dark">#1976D2</color>
-    <color name="primary_light">#BBDEFB</color>
+    <!-- Primary Brand Colors - Green (Growth, Nature, Success) -->
+    <color name="primary">#44BC87</color>          <!-- Medium Green -->
+    <color name="primary_dark">#339966</color>     <!-- Darker Green -->
+    <color name="primary_light">#9EE8C8</color>    <!-- Light Mint Green -->
 
-    <!-- Accent Colors -->
-    <color name="accent">#FF9800</color>
-    <color name="accent_dark">#F57C00</color>
+    <!-- Accent Colors - Complementary Orange (Energy, Creativity) -->
+    <color name="accent">#FF6F00</color>           <!-- Vibrant Orange -->
+    <color name="accent_dark">#E65100</color>      <!-- Dark Orange -->
 
     <!-- Background Colors -->
-    <color name="background_gradient_start">#E3F2FD</color>
-    <color name="background_gradient_end">#FFFFFF</color>
+    <color name="background_gradient_start">#E8F9F3</color>  <!-- Very Light Green -->
+    <color name="background_gradient_end">#FFFFFF</color>    <!-- White -->
 
     <!-- Text Colors -->
-    <color name="text_primary">#212121</color>
-    <color name="text_secondary">#757575</color>
-    <color name="text_light">#FFFFFF</color>
+    <color name="text_primary">#212121</color>     <!-- Dark Gray -->
+    <color name="text_secondary">#757575</color>   <!-- Medium Gray -->
+    <color name="text_light">#FFFFFF</color>       <!-- White -->
 </resources>
 
